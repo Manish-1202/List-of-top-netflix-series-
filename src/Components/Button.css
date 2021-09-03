@@ -1,0 +1,9 @@
+.btn-style
+{
+    background-image:linear-gradient(rgb(196, 62, 196),rgb(255, 0, 255));
+    outline:none;
+    color:white;
+    border:none;
+    font-family:"Roboto";
+    cursor:pointer;
+}
